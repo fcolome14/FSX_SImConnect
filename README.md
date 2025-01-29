@@ -1,4 +1,4 @@
-# FSX_SIM
+# FSX_SImConnect
 
 This project emerged as an alternative to FSUIPC and Link2FS tool for it's use in the development of a flight simulator without the need to rely on the limited parameters offered by them.
 For this I had to carry out an investigation on how FSX worked as well as the existence of its API and how to connect to it through a client. Once the connection with the API was achieved, it was possible to extract the data and send it to an Arduino platform to give it a more practical use.
